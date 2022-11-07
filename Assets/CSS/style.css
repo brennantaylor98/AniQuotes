@@ -1,0 +1,41 @@
+form.form-inline.my-2.my-lg-0 {
+    margin: auto;
+}
+
+div#navbarSupportedContent {
+    background: burlywood;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    color: black;
+}
+
+a.navbar-brand {
+    font-size: xx-large;
+    background-color: burlywood;
+    
+}
+
+#home {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+button#dropdownMenuButton {
+    background: black;
+}
+
+button.btn.btn-outline-success.my-2.my-sm-0 {
+    background: white;
+    border: blanchedalmond;
+    color: black;
+}
+
+a#navbarDropdown {
+    color: black;
+}
+
+.diagonal-box {
+    position: relative;
+}
